@@ -2,6 +2,11 @@
 
 Welcome to Homework 1! Follow the steps below to visualize and interact with the manipulator using Gazebo, RViz, and the onboard camera. 🚀
 
+
+<p align="center">
+  <img src="image.png" alt="Homework 1" width="40%">
+</p>
+
 ---
 
 ## **Instructions** 🛠️
