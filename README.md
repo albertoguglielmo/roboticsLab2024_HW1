@@ -4,7 +4,7 @@ Welcome to Homework 1! Follow the steps below to visualize and interact with the
 
 
 <p align="center">
-  <img src="image.png" alt="Homework 1" width="10%">
+  <img src="image.png" alt="Homework 1" width="25%">
 </p>
 
 ---
